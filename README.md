@@ -1,3 +1,3 @@
 
-Substitute ios for android if not on a Mac.
-
+Ionic3 project for Merchant and Customers.
+Google map, payment, Auth system are integrated.
